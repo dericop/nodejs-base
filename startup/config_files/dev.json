@@ -1,0 +1,9 @@
+{
+  "env": "dev",
+  "port": 3000,
+  "db": {
+    "host": "mongodb://localhost",
+    "name": "bco_node_dev"
+  },
+  "bco_jwtPrivateKey": "jwtBcoPrivateKey"
+}

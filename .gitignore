@@ -1,0 +1,4 @@
+# Dependencias
+node_modules/
+coverage/
+.vscode/
